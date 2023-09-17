@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Evgeny Noi**. I am pursuing on my PhD in *GIS* :earth_americas: and MA in *Data Science* at UC Santa Barbara. I am broadly interested in spatio-temporal modeling, exploratory data analysis and machine learning :technologist:. 
+My name is **Evgeny Noi**. I am pursuing my PhD in *GIS* :earth_americas: and MA in *Data Science* at UC Santa Barbara. I am broadly interested in spatio-temporal modeling, exploratory data analysis and machine learning :technologist:. 
 
 - 🔭 I’m currently working on tensors decomposition methods for analysis of human :detective: and animal :eagle: movement
 
